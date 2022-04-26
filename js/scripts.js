@@ -9,8 +9,8 @@ const productos = [
     { id: 5, categoria: 'Bolsos', titulo: 'Bolso Matero Chuna Amarillo', precio: 2200, stock: 0, img: "/assets/images/tienda/img006.jpg" },
     { id: 6, categoria: 'Mates', titulo: 'Mates Chuna', precio: 2200, stock: 15, img: "/assets/images/tienda/img007.jpg" },
     { id: 7, categoria: 'Mates', titulo: 'Mates Jarrito', precio: 2000, stock: 20, img: "/assets/images/tienda/img008.jpg" },
-    { id: 8, categoria: 'Accesorios Calzado', titulo: 'Plantillas Corderito', precio: 200, stock: 0, img: "/assets/images/tienda/img009.jpg" },
-    { id: 9, categoria: 'Accesorios Calzado', titulo: 'Plantillas Ortopedicas', precio: 220, stock: 80, img: "/assets/images/tienda/img010.jpg" },
+    { id: 8, categoria: 'Accesorios Calzado', titulo: 'Plantillas Corderito', precio: 200, stock: 0, img: "../assets/images/tienda/img009.jpg" },
+    { id: 9, categoria: 'Accesorios Calzado', titulo: 'Plantillas Ortopedicas', precio: 220, stock: 80, img: "../assets/images/tienda/img010.jpg" },
 ];
 
 
